@@ -27,7 +27,7 @@ Como é um projeto front-end estático, você não precisa de um servidor. Basta
 
 Abaixo está uma prévia do resultado final da landing page. Para adicionar a sua imagem, tire um "print" da página e salve o arquivo na pasta do projeto.
 
-![Prévia da Landing Page](imagens/previa_figma_pro_github.jpg)
+<img src="imagens/previa_figma_pro_github.jpg" alt="Prévia da Landing Page" width="600">
 
 ## ✒️ Autor
 
