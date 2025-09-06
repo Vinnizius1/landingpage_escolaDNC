@@ -74,3 +74,21 @@
 .card {
   margin-left: 50px;
 }
+
+.seta {
+  margin-top: 35%;
+  cursor: pointer;
+}
+
+.seta:hover {
+  transform: translateY(-7px);
+  transition: 0.3s;
+}
+
+#seta-esquerda {
+  display: none;
+}
+
+#bruna {
+  display: none;
+}
